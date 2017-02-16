@@ -4,5 +4,5 @@ This repository contains the code for our novel algorithm to partition large-sca
 
 For example: we executed PageRank on a web graph partitioned by different state-of-the-art algorithms. Our algorithm (AD)WISE reduces graph processing latency by 50% and network traffic by 66%!
 
-![alt tag](https://github.com/GraphPartitioning/WISE/tree/master/GraphPartitioning/graphTraffic.jpg)
-![alt tag](https://github.com/GraphPartitioning/WISE/tree/master/GraphPartitioning/graphLatency.jpg)
+![Traffic Savings](https://github.com/GraphPartitioning/WISE/blob/master/graphTraffic.jpg)
+![Latency Savings](https://github.com/GraphPartitioning/WISE/tree/master/graphLatency.jpg)
