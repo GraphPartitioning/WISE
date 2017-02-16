@@ -1,2 +1,3 @@
 # WISE: Fast and Efficient Vertex-cut Graph Partitioning
-# (Readme under construction...)
+
+This repository contains the code for our novel algorithm to partition large-scale graphs with billions of edges with linear runtime complexity. Users can specify their runtime preference to control the trade-off between partitioning quality and runtime. For example, if you partition the graph as a pre-processing step for complex distributed graph algorithms such as PageRank or Deep Learning algorithms, you want to achieve high partitioning quality at the cost of higher partitioning latency -- as this reduces overall graph processing latency significantly:
